@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.Form1.resources
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.Properties.Resources.resources
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\bin\Debug\burger_avcisi_app.exe.config
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\bin\Debug\burger_avcisi_app.exe
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\bin\Debug\burger_avcisi_app.pdb
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.exe
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.pdb
+C:\Users\Hp\source\repos\burger_avcisi_app\burger_avcisi_app\obj\Debug\burger_avcisi_app.exe.config
